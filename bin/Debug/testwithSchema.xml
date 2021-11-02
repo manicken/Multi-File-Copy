@@ -1,0 +1,22 @@
+<?xml version="1.0" standalone="yes"?>
+<DS>
+  <xs:schema id="DS" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="DS" msdata:IsDataSet="true" msdata:MainDataTable="DTD" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="DTD">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Path" type="xs:string" minOccurs="0" />
+                <xs:element name="Size_x0020__x0028_bytes_x0029_" type="xs:long" minOccurs="0" />
+                <xs:element name="Size_x0020__x0028_MB_x0029_" type="xs:string" minOccurs="0" />
+                <xs:element name="FileCount" type="xs:long" minOccurs="0" />
+                <xs:element name="MB_x002F_s" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+</DS>

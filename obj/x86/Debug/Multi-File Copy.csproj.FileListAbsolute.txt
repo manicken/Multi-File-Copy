@@ -1,0 +1,25 @@
+D:\!!!!Projects\Mult-ifile copy\Multi-File Copy\bin\Debug\Multi-File Copy.exe
+D:\!!!!Projects\Mult-ifile copy\Multi-File Copy\bin\Debug\Multi-File Copy.pdb
+D:\!!!!Projects\Mult-ifile copy\Multi-File Copy\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\!!!!Projects\Mult-ifile copy\Multi-File Copy\obj\x86\Debug\Multi_File_Copy.MainForm.resources
+D:\!!!!Projects\Mult-ifile copy\Multi-File Copy\obj\x86\Debug\Multi_File_Copy.Properties.Resources.resources
+D:\!!!!Projects\Mult-ifile copy\Multi-File Copy\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\!!!!Projects\Mult-ifile copy\Multi-File Copy\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\!!!!Projects\Mult-ifile copy\Multi-File Copy\obj\x86\Debug\Multi-File Copy.exe
+D:\!!!!Projects\Mult-ifile copy\Multi-File Copy\obj\x86\Debug\Multi-File Copy.pdb
+E:\!!!!!!!ifrån gamla 1.8 laptop hdd\Multi-File Copy\obj\x86\Debug\Multi-File Copy.exe
+E:\!!!!!!!ifrån gamla 1.8 laptop hdd\Multi-File Copy\obj\x86\Debug\Multi-File Copy.pdb
+E:\!!!!!!!ifrån gamla 1.8 laptop hdd\Multi-File Copy\obj\x86\Debug\Multi_File_Copy.MainForm.resources
+E:\!!!!!!!ifrån gamla 1.8 laptop hdd\Multi-File Copy\obj\x86\Debug\Multi_File_Copy.Properties.Resources.resources
+E:\!!!!!!!ifrån gamla 1.8 laptop hdd\Multi-File Copy\obj\x86\Debug\Multi-File Copy.csproj.GenerateResource.Cache
+E:\!!!!!!!ifrån gamla 1.8 laptop hdd\Multi-File Copy\bin\Debug\Multi-File Copy.exe
+E:\!!!!!!!ifrån gamla 1.8 laptop hdd\Multi-File Copy\bin\Debug\Multi-File Copy.pdb
+D:\_Projects\_Software\Multi-File Copy\bin\Debug\Multi-File Copy.exe
+D:\_Projects\_Software\Multi-File Copy\bin\Debug\Multi-File Copy.pdb
+D:\_Projects\_Software\Multi-File Copy\obj\x86\Debug\Multi-File Copy.csprojAssemblyReference.cache
+D:\_Projects\_Software\Multi-File Copy\obj\x86\Debug\Multi_File_Copy.MainForm.resources
+D:\_Projects\_Software\Multi-File Copy\obj\x86\Debug\Multi_File_Copy.Properties.Resources.resources
+D:\_Projects\_Software\Multi-File Copy\obj\x86\Debug\Multi-File Copy.csproj.GenerateResource.cache
+D:\_Projects\_Software\Multi-File Copy\obj\x86\Debug\Multi-File Copy.csproj.CoreCompileInputs.cache
+D:\_Projects\_Software\Multi-File Copy\obj\x86\Debug\Multi-File Copy.exe
+D:\_Projects\_Software\Multi-File Copy\obj\x86\Debug\Multi-File Copy.pdb
